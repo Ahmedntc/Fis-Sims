@@ -1,5 +1,6 @@
 # Fis-Sims
-Simulações de Fisica
+### Simulações de Fisica
+#### Grafico do projetil se encontra no arquivo de caminho 'Cinematica/projetil.png'
 
 Tabela com valores das variaveis levando em consideração a força de arrasto
 
